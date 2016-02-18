@@ -394,7 +394,7 @@ footer {
 }
 .projects .project .project-img-div {
     max-width: 350px;
-    border-radius: 50%;
+    border-radius: 20%;
 }
 @media screen and (min-width: 769px) {
     .projects .project .project-img-div {
@@ -412,7 +412,7 @@ footer {
 }
 .projects .project .project-img-div > img {
     background: white;
-    border-radius: 50%;
+    border-radius: 20%;
     width: 350px;
 }
 .resume {
