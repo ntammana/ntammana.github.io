@@ -1,0 +1,39 @@
+$base-font-family:          'Quattrocento Sans', Helvetica, Arial, sans-serif;
+$base-font-size:            20px;
+$large-font-size:           $base-font-size * 1.1;
+$small-font-size:           $base-font-size * 0.875;
+$tiny-font-size:            $base-font-size * 0.7;
+$base-line-height:          1.7;
+$small-line-height:         1.6;
+$text-color:                #111111;
+$link-color:                darken(#81a2be, 15%);
+
+$content-width:             800px;
+$on-tablet:                 768px;
+$on-mobile:                 650px;
+$small-font-cutoff:         450px;
+
+$section-padding:           50px;
+$spacing-unit:              40px;
+$nav-height:                75px;
+$footer-height:             100px;
+$base-side-padding:         $section-padding;
+$small-side-padding:        8px;
+
+$nav-button-div-size:       50px;
+
+$code-font-family:          Monaco, monospace;
+$code-font-size:            13px;
+$code-letter-spacing:       0.2px;
+$code-line-height:          1.6;
+
+$pantone-purple-impression: #8690b8;
+$triad-salmon:              #ffddd3;
+$complimentary-teal:        #70b2a0;
+
+$nav-bg-color:              $complimentary-teal;
+$intro-bg-color:            darken($triad-salmon, 5%); // #444c6b;
+$about-bg-color:            $pantone-purple-impression;
+$projects-bg-color:         #d3dcff;
+$resume-bg-color:           #edf0ff;
+$footer-bg-color:           white;

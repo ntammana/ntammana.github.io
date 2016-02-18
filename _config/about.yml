@@ -1,0 +1,27 @@
+about:
+
+    resume:
+        - "[pdf](alekskamko_resume.pdf)"
+        - "[plaintext](alekskamko_resume.txt)"
+    email: "[aleks@alekskamko.com](mailto:aleks@alekskamko.com)"
+    latest_work:
+        company: Twitch
+        team: Identity
+        term: Summer 2015
+    education:
+        university: UC Berkeley
+        major: Electrical Engineering and Computer Science
+        graduation: May 2016
+    interests:
+        - teaching
+        - music
+        - kimchi
+        - biking
+        - sick threads
+        - pretty websites
+        - super smash
+    links:
+        - "[github](https://github.com/aykamko)"
+        - "[linkedin](http://www.linkedin.com/in/aykamko)"
+        - "[facebook](http://fb.me/ayk)"
+        - "[spotify](http://open.spotify.com/user/mrpersonguy)"

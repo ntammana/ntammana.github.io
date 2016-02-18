@@ -1,0 +1,94 @@
+resume:
+
+    experience:
+
+      - title_left: Identity Team Intern
+        subtitle_left: Twitch
+        title_right: Summer 2015
+        info:
+          - Launched new, secure OpenID authentication portal. Designed and implemented standalone Golang tools for configs and i18n.
+
+      - title_left: Language Technology Team Intern
+        subtitle_left: Facebook
+        title_right: Summer 2014
+        info:
+          - Analyzed large data sets of out-of-vocabularies (OOVs) in translation requests; developed web interface to flag and eliminate OOVs.
+
+      - title_left: TA @ CS162 [Operating Systems] & CS61B [Data Structures]
+        subtitle_left: UC Berkeley
+        title_right: Fall 2014 - Present
+        info:
+          - TA for intro course and OS course. Teach sections/labs, hold office hours, lead review sessions, develop section and test material.
+
+      - title_left: Facebook University iOS Intern
+        subtitle_left: Facebook
+        title_right: Summer 2013
+        info:
+          - Worked in team of 3 in building an iOS application. Built two standalone iOS apps and a web app at company-held hackathons.
+
+    skills:
+
+      - subtitle_left: Proficient
+        list:
+            - Python
+            - Java
+            - Javascript
+            - Golang
+            - git
+            - GitHub
+            - vim
+      - subtitle_left: Experience
+        list:
+            - Flask
+            - Django
+            - Ruby/Rails
+            - PHP (Hack)
+            - C
+            - C++
+            - Objective-C
+            - SQL
+            - mercurial
+            - bash
+      - subtitle_left: Exposure
+        list:
+            - Node.js
+            - Jenkins
+      - subtitle_left: Other
+        list:
+            - Mac OS X
+            - Unix
+            - Adobe Photoshop
+            - Illustrator
+            - Premiere Pro
+            - Final Cut Pro
+
+    education:
+
+      - title_left: BS Electrical Engineering and Computer Science
+        subtitle_left: University of California, Berkeley
+        title_right: Expected May 2016
+        info:
+          - Structure and Interpretation of Computer Programs (Python, Scheme)
+          - Data Structures and Algorithms (Java)
+          - Machine Structures (C, MIPS)
+          - Algorithms
+          - Operating Systems (C, Java)
+          - Compilers (C++, Python)
+          - Internet Architecture/Networks (Python)
+          - Machine Learning (Golang, Python)
+          - AI (Python)
+
+
+    leadership:
+
+      - title_left: Web Tier Leader
+        subtitle_left: "[Innovative Design](http://innovativedesign.club)"
+        title_right: Fall 2014
+        info:
+          - Led a team of 6 developers and designers in improving web sites and brands for on-campus organizations.
+
+      - title_left: VP of Tech
+        subtitle_left: "[Blueprint](http://calblueprint.org)"
+        title_right: Present
+        info:
+          - Maintain and develop calblueprint.org and other internal tools. Code review changes to Blueprint projects. Advise project leaders.
