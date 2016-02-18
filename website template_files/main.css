@@ -245,7 +245,8 @@ footer {
     clear: both;
 }
 .intro {
-    background: #F2CEEE;
+    /* pink background: #F2CEEE; */
+	/* yellow */background: #F7F3D0;
 }
 .intro .container,
 .intro .about .console-section .console,
